@@ -23,7 +23,7 @@ Any other domain is not affiliated with us.
 
 #### Socials
 - [Patreon](https://www.patreon.com/spacestation14) ([Finances](https://docs.google.com/spreadsheets/d/1_EIs2myVyatmbuPxkhwvgIGzQ543v4LewhbDivJdV_o/edit?usp=sharing))
-- [Discord](https://discord.gg/ss14)
+- [Discord](https://discord.gg/invite/ss14)
 - [Mastodon](https://mastodon.gamedev.place/@spacestation14)
 - [Bluesky](https://bsky.app/profile/spacestation14.com)
 - [Youtube](https://www.youtube.com/@SpaceWizardsFederation)
@@ -69,7 +69,7 @@ No. Steam does get automatic updates to the launcher, but otherwise they are fun
 In the future we intend to add some better integration such as the ability to log into the game via Steam or Steam Cloud synchronization of settings, but these are not currently present.
 
 ### Q: How do I learn to play the game?
-Ask around in our [discord server](https://discord.gg/ss14)
+Ask around in our [discord server](https://discord.gg/invite/ss14)
 <!--Check out our [beginner's guide](https://wiki.spacestation14.com/wiki/Getting_Started) and the rest of our [player wiki](https://wiki.spacestation14.com).-->
 
 ### Q: Are you the original creators of SS13?
@@ -105,7 +105,7 @@ If you were banned from another server you will need to ask them about appealing
 You can read them [here](https://wiki.spacestation14.com/wiki/Server_Rules).-->
 
 ### Q: Help! My game is crashing, where do I get help?
-You can ask for help in our [Discord server](https://discord.gg/ss14) in the [#help](https://discord.com/channels/310555209753690112/790656972801572905) channel, or on our [forums](https://forum.spacestation14.com/c/general/help/46).
+You can ask for help in our [Discord server](https://discord.gg/invite/ss14) in the [#help](https://discord.com/channels/310555209753690112/790656972801572905) channel, or on our [forums](https://forum.spacestation14.com/c/general/help/46).
 
 ### Q: How do I enable logging?
 On the launcher's options tab, enable "log client" and "log launcher". Press "Open Log directory" to see the logs.
